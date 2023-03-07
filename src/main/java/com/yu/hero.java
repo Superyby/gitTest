@@ -14,5 +14,6 @@ public class hero {
         System.out.println("hello4");
         System.out.println("master test!");
         System.out.println("hot-fix test!");
+        System.out.println("push test!");
     }
 }
